@@ -1,5 +1,5 @@
 # BasicTimer
-Locally made timer chrome extension utilizing CSS, HTML, JS, and JSON files. 
+Locally made timer chrome extension utilizing CSS, HTML, and JS files. 
 
 This timer has the ability to store user's name, store their preferred notification time, 
 send notifications based on the preferred notification time, start a timer, and end a timer.
